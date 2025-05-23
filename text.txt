@@ -1,0 +1,262 @@
+ <div class="container">
+        <div class="masonry">       
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/1_A_Farm.png" alt="Blog 1" 
+                            src="./assets/img/books/en/1_A_Farm.png">
+                        </a>
+                        <div class="card-body">                            
+                            <h4 class=""><a href="#">A Farm</a></h4>
+                            <p class="card-text">
+                                Who lives on a farm? Find out and meet all the farm animals in this fun, farmyard book.         
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/2_Dressing_Up.png" alt="Blog 1" 
+                            src="./assets/img/books/en/2_Dressing_Up.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">Dressing Up</a></h4>
+                            <p class="card-text">
+                                Who do you want to be? A firefighter? A gardener? Let’s dress up       
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/3_What_is_This.png" alt="Blog 1" 
+                            src="./assets/img/books/en/3_What_is_This.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">What Is This</a></h4>
+                            <p class="card-text">
+                                Who do you want to be? A firefighter? A gardener? Let’s dress up!      
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/4_Where_am_I_.png" alt="Blog 1" 
+                            src="./assets/img/books/en/4_Where_am_I_.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">Where Am I</a></h4>
+                            <p class="card-text">
+                                Where am I? Am I cooking eggs in the kitchen or playing in the backyard? Find out in this story about all the places in our homes.      
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/5_What_can_it_do.png" alt="Blog 1" 
+                            src="./assets/img/books/en/5_What_can_it_do.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">What Can It Do</a></h4>
+                            <p class="card-text">
+                                What can a turtle do? What can a rabbit do? What can you do? Let’s find out in book about all the different things animals can do.      
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/6_Like_this.png" alt="Blog 1" 
+                            src="./assets/img/books/en/6_Like_this.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">Like This</a></h4>
+                            <p class="card-text">
+                                What can a turtle do? What can a rabbit do? What can you do? Let’s find out in book about all the different things animals can do.      
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/7_The_Beach.png" alt="Blog 1" 
+                            src="./assets/img/books/en/7_The_Beach.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">The Beach</a></h4>
+                            <p class="card-text">
+                                What can a turtle do? What can a rabbit do? What can you do? Let’s find out in book about all the different things animals can do.      
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/8_He_and_She.png" alt="Blog 1" 
+                            src="./assets/img/books/en/8_He_and_She.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">He And She</a></h4>
+                            <p class="card-text">
+                                How annoying! A little boy is getting mad. How is his friend annoying him and what will he do about it?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/9_As_Clever_as_Me.png" alt="Blog 1" 
+                            src="./assets/img/books/en/9_As_Clever_as_Me.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">As Clever As Me</a></h4>
+                            <p class="card-text">
+                                Are you as tall as a giraffe? Are you as fast as a cheetah? Are you as clever as me? What are you good at?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/10_So_Can_I.png" alt="Blog 1" 
+                            src="./assets/img/books/en/10_So_Can_I.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">So Can I!</a></h4>
+                            <p class="card-text">
+                                Do you have a pet? Find out what happens when a pet dog and cat chase each other around the house!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/11_The_Play_Date.png" alt="Blog 1" 
+                            src="./assets/img/books/en/11_The_Play_Date.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">The Play Date</a></h4>
+                            <p class="card-text">
+                                Playdates are so much fun! Sam and Tom are having a playdate today. What will they do? What toys will they play with?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+                <div class="card">
+                    <div class="bg-over">            
+                        <a href="#">
+                            <img data-src="./assets/img/books/en/12_Look.png" alt="Blog 1" 
+                            src="./assets/img/books/en/12_Look.png">
+                        </a>
+                        <div class="card-body">
+                            <h4 class=""><a href="#">Look!</a></h4>
+                            <p class="card-text">
+                                Sam is riding her horse and Amy is walking her dog. What might happen when they cross paths?
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>   
+    </div>
+
+
+
+    <section class="book-grid">       
+        <div class="grid">
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/1_A_Farm.png">
+                <h3>A Farm</h3>
+                <p>Who lives on a farm? Find out and meet all the farm animals ...</p>
+            </div>
+
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/2_Dressing_Up.png">
+                <h3>Dressing Up</h3>
+                <p>Who do you want to be? A firefighter? A gardener? ...</p>
+            </div>
+
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/3_What_is_This.png">
+                <h3>What Is This</h3>
+                <p>Who do you want to be? A firefighter? A gardener? ...</p>
+            </div>
+
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/4_Where_am_I_.png">
+                <h3>Where Am I</h3>
+                <p>Where am I? Am I cooking eggs in the kitchen ... </p>
+            </div>
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/5_What_can_it_do.png">
+                <h3>What Can It Do</h3>
+                <p>What can a turtle do? What can a rabbit do? What can you do? ... </p>
+            </div>
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/6_Like_this.png">
+                <h3>Like This</h3>
+                <p>Can you run? Can you hop? See all the fun ... </p>
+            </div>
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/7_The_Beach.png">
+                <h3>The Beach</h3>
+                <p>What can a turtle do? What can a rabbit do? What can you do? ... </p>
+            </div>
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/8_He_and_She.png">
+                <h3>He And She</h3>
+                <p> How annoying! A little boy is getting mad. How is his friend ... </p>
+            </div>
+            <div class="book-card">
+                <img alt="Blog 1" 
+                                src="./assets/img/books/en/9_As_Clever_as_Me.png">
+                <h3>As Clever As Me</h3>
+                <p> Are you as tall as a giraffe? Are you as fast as a cheetah? ... </p>
+            </div>
+        </div>
+    </section> 
